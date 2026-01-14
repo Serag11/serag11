@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Serag Ehab 👋
+
+Computer Vision Engineer working on deep learning–based visual perception systems. My work includes object detection, face recognition, generative models, and real-world autonomous systems, developed through NTI and ASU Racing projects.
+
+**Tools:** PyTorch, TensorFlow/Keras, OpenCV, Python, scikit-learn, FastAPI, Streamlit, Git
 
 <!--
 **Serag11/serag11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
