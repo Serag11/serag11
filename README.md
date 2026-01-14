@@ -46,8 +46,8 @@ Former **ASU Racing F1TENTH** team member, contributing to perception, localizat
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
+<!-- ## 📊 GitHub Stats -->
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Serag11&theme=dark&show_icons=true" />
 </p>
 
@@ -57,9 +57,9 @@ Former **ASU Racing F1TENTH** team member, contributing to perception, localizat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serag11&theme=dark&layout=compact" />
-</p>
+</p> -->
 
----
+<!-- --- -->
 
 ## 💡 Philosophy
 > *Strong fundamentals, thoughtful experimentation, and systems that work beyond notebooks.*
